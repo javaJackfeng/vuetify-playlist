@@ -1,0 +1,1 @@
+export const TOGGLE_SIDEBAR = 'toggle_sidebar'
